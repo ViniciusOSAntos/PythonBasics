@@ -1,2 +1,0 @@
-# TimeSeries
-Time series studies
